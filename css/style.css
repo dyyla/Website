@@ -1,0 +1,175 @@
+/*
+GATEWAY PAGE
+*/
+
+.container {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.hero {
+	background: url(images/IMG_4649.jpg);
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.titlename {
+font-size: 60px;
+color: white;
+line-height: 150px;
+padding-left: 50px;
+font-family: 'Prata', serif;
+}
+
+
+.linkz {
+position: absolute;
+top: 0;
+right: 0;
+line-height: 150px;
+padding-right: 60px;
+font-family: 'Satisfy', cursive;
+font-size: 50px;
+}
+
+/*
+TRAVEL PAGE
+*/
+
+.navigation {
+  padding: 2rem;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 8px;
+
+}
+
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 8px;
+
+}
+
+.column img {
+  margin-top: 10px;
+  vertical-align: middle;
+  width: 100%;
+
+}
+
+/*
+Travel entries
+*/
+
+.travelheader {
+font-family: 'Cardo', serif;
+margin: 2rem;
+text-align: center;
+line-height: 1em;
+}
+
+.itinerary {
+margin-top: 50px;
+margin-bottom: 50px;
+text-align: center;
+line-height: 0.5em;
+}
+
+.centercontainer {
+margin-left: 300px;
+font-size: 18px;
+font-family: 'Cardo', serif;
+
+}
+
+
+.img-with-text {
+    text-align: justify;
+    width: [width of img];
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+.map {
+	display: block;
+	margin-left: auto;
+  margin-right: auto;
+	padding-top: 50px;
+	width: 35%;
+	height: 600px;
+}
+
+
+/*
+Blog page
+*/
+
+.blogheader {
+filter: grayscale(50%);
+}
+
+.postblock {
+	font-family: 'Cardo', serif;
+	text-align: center;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-bottom: 10%;
+}
+
+
+/*
+gallery page
+*/
+
+
+.centercontainer img:hover {
+	filter: grayscale(70%);
+	transform: scale(1.1);
+}
+
+/*
+About page
+*/
+
+.aboutimage {
+
+margin-left: auto;
+margin-right: auto;
+width: 25%;
+}
+
+.aboutblock {
+	font-family: 'Cardo', serif;
+	text-align: center;
+	padding-left: 30%;
+	padding-right: 30%;
+	padding-bottom: 10%;
+}
+
+
+/*
+Contact page
+*/
+label {
+		font-family: 'Cardo', serif;
+}
+
+form {
+	margin: 0 auto;
+	width:25%;
+	padding-top: 3%;
+}
