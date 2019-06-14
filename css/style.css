@@ -10,6 +10,7 @@ GATEWAY PAGE
 	height: 100%;
 }
 
+
 .hero {
 	background: url(../images/IMG_4649.jpg);
 	width: 100%;
@@ -18,6 +19,7 @@ GATEWAY PAGE
 	background-repeat: no-repeat;
 	background-position: center center;
 }
+
 
 .titlename {
 font-size: 60px;
