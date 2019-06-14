@@ -175,3 +175,8 @@ form {
 	width:25%;
 	padding-top: 3%;
 }
+
+.message {
+	font-family: 'Cardo', serif;
+	text-align: center;
+}
